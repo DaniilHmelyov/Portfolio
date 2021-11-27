@@ -382,6 +382,9 @@ main{
     .skills{
         padding-top: 110px;
     }
+    .left-side ul{
+        margin-left: 0px;
+    }
 }
 @media (max-width:1200px){
     .img-me{
