@@ -321,7 +321,7 @@ main{
 }
 .contact{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     margin-top: 30px;
 }
 .img-con{
