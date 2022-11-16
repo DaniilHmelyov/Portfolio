@@ -253,13 +253,16 @@ main{
     color: #FFFFFF;
     text-shadow: 0px 2px 10px 0px rgba(255,255,255, 0.8);
     transition: 0.3s;
+    padding: 4px 9px;
+    width: fit-content;
+    padding: 4px 9px;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 10px;
 }
 #see-more:hover{    
     background-color: #FFFFFF;
     color: #ad1c51;
-    padding: 4px 9px;
-    width: fit-content;
-    margin: 0 auto;
 }
 .my-portfolio h2{
     margin:0px 0px 30px 25px;
