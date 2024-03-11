@@ -24,8 +24,6 @@ header{
     list-style: none;
 }
 
-
-
 body{
     font-family: 'Open Sans', sans-serif;
     background-image: url(../img/background.png);
@@ -37,8 +35,19 @@ body{
     height: 100%;
     min-width: 320px;
 }
+
 main{
     padding: 0px 140px;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
 }
 
 .burger-menu{
@@ -208,14 +217,7 @@ main{
     border-image-source: linear-gradient(137.48deg, rgba(255, 255, 255, 0.6) -96.76%, rgba(255, 255, 255, 0) 81.26%);
     padding: 40px 50px;
 }
-.my-skills h2{
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
-}
+
 .my-skills li{
     font-weight: 600;
     font-size: 20px;
@@ -266,12 +268,6 @@ main{
 }
 .my-portfolio h2{
     margin:0px 0px 30px 25px;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
 }
 .works{
     display: flex;
@@ -316,12 +312,6 @@ main{
     border-image-source: linear-gradient(137.48deg, rgba(255, 255, 255, 0.6) -96.76%, rgba(255, 255, 255, 0) 81.26%);
 }
 .contacts h2{
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
     margin-bottom: 10px;
 }
 .sides-contacts{
